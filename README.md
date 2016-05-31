@@ -10,6 +10,8 @@
 
 ## How to use
 
+npm i https://github.com/cantecim/socket.io-client.git#master -S
+
 A standalone build of `socket.io-client` is exposed automatically by the
 socket.io server as `/socket.io/socket.io.js`. Alternatively you can
 serve the file `socket.io.js` found at the root of this repository.
